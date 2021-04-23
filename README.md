@@ -1,4 +1,4 @@
-# met.no
+# PHP Api met.no
 # Free meteorological data 
 Get weather location forecast data from met.no.
 #
